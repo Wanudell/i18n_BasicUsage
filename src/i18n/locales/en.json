@@ -1,0 +1,19 @@
+{
+    "locale": {
+        "en": "English",
+        "tr": "Turkish"
+    },
+    "nav":{
+        "home":"Home",
+        "about":"About"
+    },
+    "home":{
+        "header": "Welcome to my youtube channel",
+        "createdBy": "Created By Me As A {company}.",
+        "numVisits": "This page hasn't been visited :( | This page has been visited {n} time. | This page has been visited {n} times."
+    },
+    "about":{
+        "header": "About us",
+        "donations": "Donations raised : {donations}"
+    }
+}

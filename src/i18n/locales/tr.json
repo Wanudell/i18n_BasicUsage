@@ -1,0 +1,19 @@
+{
+    "locale": {
+        "en": "İngilizce",
+        "tr": "Türkçe"
+    },
+    "nav":{
+        "home":"Ev",
+        "about":"Kimim ki ben"
+    },
+    "home":{
+        "header": "Merhaba arkadaşlar, youtube kanalıma hoşgeldiniz !",
+        "createdBy": "Bu kanal ben tarafından yapılmıştır.",
+        "numVisits": "Bu sayfa henüz ziyaret edilmedi. :( | Bu sayfa {n} kez ziyaret edildi. | Bu sayfa {n} kez ziyaret edildi."
+    },
+    "about":{
+        "header": "Kim ola ki ?",
+        "donations": "Paralar gani oldu : {donations}"
+    }
+}
